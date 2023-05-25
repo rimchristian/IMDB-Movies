@@ -1,4 +1,7 @@
-# IMDB Movies
+![Forks](https://img.shields.io/badge/forks-44-blue)
+![Stars](https://img.shields.io/badge/stars-13-yellow)
+# Movie Evaluation 
+
  I have completed an API Extraction Data Project using the IMDB movie dataset.  For this project, I will be creating a MySQL database. I will be using the database to analyze what makes a movie successful and will provide recommendations to the stakeholders on how to make a successful movie. 
  
  # These are the steps of creating the full Movie Project. 
