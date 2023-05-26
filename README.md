@@ -20,10 +20,10 @@ These are the files I will be exploring and filtering.
  
  # These are the steps of creating the full Movie Project. 
  
-### Part 1: Downloaded the above files from the IMDB movie data set and filtered out the subset of moves requested by the stakeholder. 
-### Part 2: Used APIs to extract box office revenue and profit data to add to my dataset and performed exploratory data analysis. 
-### Part 3: Constructed and exported a MySQL database using the data. 
-### Part 4: Applied hypothesis testing to explore what makes a movie successful. (A/B Testing)
+## Part 1: Downloaded the above files from the IMDB movie data set and filtered out the subset of moves requested by the stakeholder. 
+## Part 2: Used APIs to extract box office revenue and profit data to add to my dataset and performed exploratory data analysis. 
+## Part 3: Constructed and exported a MySQL database using the data. 
+## Part 4: Applied hypothesis testing to explore what makes a movie successful. (A/B Testing)
 
  
  
