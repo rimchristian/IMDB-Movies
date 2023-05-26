@@ -36,10 +36,33 @@ After extracting the data, I answered the following questions:
 3. What is the average revenue per certification category?
 4. What is the average budget per certification category?
 
-#### Part 3: Constructed and exported a MySQL database using the data. 
+#### Part 3: Constructed and exported a MySQL database from Python. 
+**Specifications**
+- I created 5 tables in MySQL from Jupyter Notebook. 
+1. Title Basics
+- Movie ID (tconst)
+- Primary Title
+- Start Year
+- Runtime (in Minutes)
+- Genres
+2. Title Ratings
+- Movie ID (tconst)
+- Average Movie Rating
+- Number of Votes
+3. The TMDB API Results
+- Movie ID
+- Revenue
+- Budget
+4. Title Genres 
+- tconst
+- genre_id
+6. Genres
+- genre_id
+- genre_name 
+
 #### Part 4: Applied hypothesis testing to explore what makes a movie successful. (A/B Testing)
-
-
-
+Questions:
+1. Does the MPAA rating of a movie (G/PG/PG-13/R) affect how much revenue the movie generates?
+2. Do movies that are over 2.5 hours long earn more revenue than movies that are 1.5 hours long (or less)?
  
  
