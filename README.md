@@ -18,7 +18,7 @@ These are the files I will be exploring and filtering.
 
  
  
- # These are the steps of creating the full Movie Project. 
+ # These are the steps I did when going through the IMDB Movie Project. 
  
 #### Part 1: Downloaded the above files from the IMDB movie data set and filtered out the subset of moves requested by the stakeholder. 
 **Specifications**
