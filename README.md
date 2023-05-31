@@ -2,7 +2,7 @@
 ![Stars](https://img.shields.io/badge/stars-13-yellow)
 
 # Movie Recommendations Report 
-Main goal of this analysis is recommending what makes a movie successful and recommendations to the stakeholders on how to make a successful movie.  I will be creating a MySQL database to explore the data after extracting API data from the IMDB movie dataset. 
+Main goal of this analysis is recommending what makes a movie successful and recommendations to the stakeholders on how movies became successful movie.  I will be creating a MySQL database to explore the data after extracting API data from the IMDB movie dataset. 
 
 # File Import 
 These are the files I will be exploring and filtering. 
